@@ -1,0 +1,23 @@
+
+
+5_tsp
+
+https://youtu.be/9SGhxGj1-xo
+
+DFS
+
+https://youtu.be/-P9aS7wGoRM
+
+8_queen problem
+
+https://youtu.be/rvdyy_tTyLI
+
+
+tic tac toe program
+
+https://www.c-sharpcorner.com/UploadFile/75a48f/tic-tac-toe-game-in-python/
+
+
+1 , 2 water jug problem 
+
+https://www.youtube.com/watch?v=6sJhakpSgIw
